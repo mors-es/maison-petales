@@ -12,7 +12,7 @@ La documentation de la Maison en Pétales se compose de **15 notices sous format
 
 * 0 - Maison en Pétales (*A venir*)
 
-Les notices **PIÈCES** qui parlent de la réalisation des différentes “pièces” à assembler de la Maison en Pétales.
+On a ensuite les notices **PIÈCES** qui parlent de la réalisation des différentes “pièces” à assembler de la Maison en Pétales.
 
 * [A - Plancher](https://github.com/mors-es/maison-petales/blob/main/notices/a_plancher.pdf?raw=true) ([format à imprimer](https://github.com/mors-es/maison-petales/blob/main/notices/a_plancher_print.pdf?raw=true))
 * [B - Piliers](https://github.com/mors-es/maison-petales/blob/main/notices/b_piliers.pdf?raw=true)  ([format à imprimer](https://github.com/mors-es/maison-petales/blob/main/notices/b_piliers_print.pdf?raw=true))
@@ -20,7 +20,7 @@ Les notices **PIÈCES** qui parlent de la réalisation des différentes “pièc
 * [D - Toiture](https://github.com/mors-es/maison-petales/blob/main/notices/d_toiture?raw=true)  ([format à imprimer](https://github.com/mors-es/maison-petales/blob/main/notices/d_toiture_print.pdf?raw=true))
 * E - Marbres (*A venir*)
 
-Les notices **ÉDIFICATION** qui parlent de la construction de Maison en Pétales à partir des pièces préfabriquées et des consommables (pare-pluie, isolants, etc.).
+Les notices **ÉDIFICATION**, elle parlent de la construction de Maison en Pétales à partir des pièces préfabriquées et des consommables (pare-pluie, isolants, etc.).
 
 * [1 - Fondations](https://github.com/mors-es/maison-petales/blob/main/notices/1_fondations.pdf?raw=true) ([format à imprimer](https://github.com/mors-es/maison-petales/blob/main/notices/1_fondations_print.pdf?raw=true))
 * [2 - Plancher](https://github.com/mors-es/maison-petales/blob/main/notices/2_plancher.pdf?raw=true) ([format à imprimer](https://github.com/mors-es/maison-petales/blob/main/notices/2_plancher_print.pdf?raw=true))
@@ -33,7 +33,7 @@ Les notices PIÈCES et ÉDIFICATIONS seront sous format Foldy Zine, une partie *
 
 ![](/assets/img/foldy_zine.png)
 
-Les notices **ORGANISATION** qui sont des livrets plus transversaux permettant d’avoir la vue d’ensemble sur la construction de la Maison en Pétales
+Enfin, les notices **ORGANISATION** sont des livrets plus transversaux permettant d’avoir la vue d’ensemble sur la construction de la Maison en Pétales
 
 * X - Chantier (lieu, outils nécessaires, calendrier, etc.) (*A venir*)
 * [Y - Plans & Débits](https://github.com/mors-es/maison-petales/blob/main/notices/Y_plans_debits.pdf?raw=true) (plans et vues de coupes de toutes les pièces, listes des débits, consommables).
