@@ -64,4 +64,4 @@ Vous pouvez également décider de soutenir le projet en partipant financièreme
 
 ### Recherche et développement
 
-Le projet vous inspire, vous avez des connaissances dans le domaine de l'éco-construction. Nous aider dans une études de structure, d'impact ou tous nouveaux développement pour permettre le développement de ce chouette projet.
+Le projet vous inspire, vous avez des connaissances dans le domaine de l'éco-construction. Nous aider dans une étude de structure, d'impact ou tous nouveaux développements peuvent permettre à ce chouette projet de grandir.
