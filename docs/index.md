@@ -10,38 +10,38 @@ Nous sommes d’ailleurs à la recherche d’étudiants, d’un bureau ou d’in
 
 La documentation de la Maison en Pétales se compose de **15 notices sous format A5**. A commencer par une notice d'introduction.
 
-0 - Maison en Pétales (*A venir*)
+* 0 - Maison en Pétales (*A venir*)
 
 Les notices **PIÈCES** qui parlent de la réalisation des différentes “pièces” à assembler de la Maison en Pétales.
 
-A - Plancher
-B - Piliers
-C - Cadres
-D - Toiture
-E - Marbres (*A venir*)
+* A - Plancher
+* B - Piliers
+* C - Cadres
+* D - Toiture
+* E - Marbres (*A venir*)
 
 Les notices **ÉDIFICATION** qui parlent de la construction de Maison en Pétales à partir des pièces préfabriquées et des consommables (pare-pluie, isolants, etc.).
 
-1 - Fondations
-2 - Plancher
-3 - Structure
-4 - Ossatures et menuiseries
-5 - Isolation et étanchéité
-6 - Couverture (*A venir*)
+* 1 - Fondations
+* 2 - Plancher
+* 3 - Structure
+* 4 - Ossatures et menuiseries
+* 5 - Isolation et étanchéité
+* 6 - Couverture (*A venir*)
 
 Les notices PIÈCES et ÉDIFICATIONS seront sous format Foldy Zine, une partie *livret* avec textes et illustrations pouvant être lue à son aise et une partie intérieure avec des *planches de dessins* (*A venir*) résumant les étapes à suivre à l’atelier ou sur le chantier. Actuellement seule la partie livret A5 est en cours de réalisation.
 
 ![](/assets/img/foldy_zine.png)
 
-la vue d’ensemble sur la construction de la Maison en Pétales
+Les notices **ORGANISATION** qui sont des livrets plus transversaux permettant d’avoir la vue d’ensemble sur la construction de la Maison en Pétales
 
-X - Chantier (lieu, outils nécessaires, calendrier, etc.) (*A venir*)
-Y - Plans & Débit (plans et vues de coupes de toutes les pièces, listes des débits, consommables).
+* X - Chantier (lieu, outils nécessaires, calendrier, etc.) (*A venir*)
+* Y - Plans & Débit (plans et vues de coupes de toutes les pièces, listes des débits, consommables).
 
 Cette notice n’en est pas vraiment une car elle prend la forme d’un grand plan en format A0 à afficher dans l’atelier pour y trouver l’ensemble des mesures et débits. Ce plan peut être aussi être utilisé pour marquer la progression de ce qui a déjà été fait.
 
 ![](/assets/img/plan_atelier.png)
 
-Z - Conseils, Trucs et Astuces (utilisation des outils, conseils, vocabulaires, FAQ, etc.)  (*A venir*)
+* Z - Conseils, Trucs et Astuces (utilisation des outils, conseils, vocabulaires, FAQ, etc.)  (*A venir*)
 
 
