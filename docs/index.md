@@ -16,8 +16,8 @@ On a ensuite les notices **PIÈCES** qui parlent de la réalisation des différe
 
 * [A - Plancher](https://github.com/mors-es/maison-petales/blob/main/notices/a_plancher.pdf?raw=true) ([format à imprimer](https://github.com/mors-es/maison-petales/blob/main/notices/a_plancher_print.pdf?raw=true))
 * [B - Piliers](https://github.com/mors-es/maison-petales/blob/main/notices/b_piliers.pdf?raw=true)  ([format à imprimer](https://github.com/mors-es/maison-petales/blob/main/notices/b_piliers_print.pdf?raw=true))
-* [C - Cadres](https://github.com/mors-es/maison-petales/blob/main/notices/c_cadres?raw=true)  ([format à imprimer](https://github.com/mors-es/maison-petales/blob/main/notices/c_cadres_print.pdf?raw=true))
-* [D - Toiture](https://github.com/mors-es/maison-petales/blob/main/notices/d_toiture?raw=true)  ([format à imprimer](https://github.com/mors-es/maison-petales/blob/main/notices/d_toiture_print.pdf?raw=true))
+* [C - Cadres](https://github.com/mors-es/maison-petales/blob/main/notices/c_cadres.pdf?raw=true)  ([format à imprimer](https://github.com/mors-es/maison-petales/blob/main/notices/c_cadres_print.pdf?raw=true))
+* [D - Toiture](https://github.com/mors-es/maison-petales/blob/main/notices/d_toiture.pdf?raw=true)  ([format à imprimer](https://github.com/mors-es/maison-petales/blob/main/notices/d_toiture_print.pdf?raw=true))
 * E - Marbres (*A venir*)
 
 Les notices **ÉDIFICATION**, elle parlent de la construction de Maison en Pétales à partir des pièces préfabriquées et des consommables (pare-pluie, isolants, etc.).
@@ -36,7 +36,7 @@ Les notices PIÈCES et ÉDIFICATIONS seront sous format Foldy Zine, une partie *
 Enfin, les notices **ORGANISATION** sont des livrets plus transversaux permettant d’avoir la vue d’ensemble sur la construction de la Maison en Pétales
 
 * X - Chantier (lieu, outils nécessaires, calendrier, etc.) (*A venir*)
-* [Y - Plans & Débits](https://github.com/mors-es/maison-petales/blob/main/notices/Y_plans_debits.pdf?raw=true) (plans et vues de coupes de toutes les pièces, listes des débits, consommables).
+* [Y - Plans & Débits](https://github.com/mors-es/maison-petales/blob/main/notices/Y_plans_debits.pdf?raw=true) (plans et vues de coupes de toutes les pièces, listes des débits, consommables). (*A venir*, prêt à 90%)
 
 Cette notice n’en est pas vraiment une car elle prend la forme d’un grand plan en format A0 à afficher dans l’atelier pour y trouver l’ensemble des mesures et débits. Ce plan peut aussi être utilisé pour marquer la progression de ce qui a déjà été fait.
 
