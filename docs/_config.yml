@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Maison en Pétales 🌼
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: Documentation pour auto-construire une Maison en Pétales
 show_downloads: true
-google_analytics:
+google_analytics: UA-67365635-1
 theme: jekyll-theme-minimal
