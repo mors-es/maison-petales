@@ -14,19 +14,19 @@ La documentation de la Maison en Pétales se compose de **15 notices sous format
 
 Les notices **PIÈCES** qui parlent de la réalisation des différentes “pièces” à assembler de la Maison en Pétales.
 
-* A - Plancher
-* B - Piliers
-* C - Cadres
-* D - Toiture
-* E - Marbres (*A venir*)
+* [A - Plancher](https://github.com/mors-es/maison-petales/blob/main/notices/a_plancher.pdf?raw=true) ([format à imprimer](https://github.com/mors-es/maison-petales/blob/main/notices/a_plancher_print.pdf?raw=true))
+* [B - Piliers](https://github.com/mors-es/maison-petales/blob/main/notices/b_piliers.pdf?raw=true)  ([format à imprimer](https://github.com/mors-es/maison-petales/blob/main/notices/b_piliers_print.pdf?raw=true))
+* [C - Cadres](https://github.com/mors-es/maison-petales/blob/main/notices/c_cadres?raw=true)  ([format à imprimer](https://github.com/mors-es/maison-petales/blob/main/notices/c_cadres_print.pdf?raw=true))
+* [D - Toiture](https://github.com/mors-es/maison-petales/blob/main/notices/d_toiture?raw=true)  ([format à imprimer](https://github.com/mors-es/maison-petales/blob/main/notices/d_toiture_print.pdf?raw=true))
+* [E - Marbres (*A venir*)
 
 Les notices **ÉDIFICATION** qui parlent de la construction de Maison en Pétales à partir des pièces préfabriquées et des consommables (pare-pluie, isolants, etc.).
 
-* 1 - Fondations
-* 2 - Plancher
-* 3 - Structure
-* 4 - Ossatures et menuiseries
-* 5 - Isolation et étanchéité
+* [1 - Fondations](https://github.com/mors-es/maison-petales/blob/main/notices/1_fondations.pdf?raw=true) ([format à imprimer](https://github.com/mors-es/maison-petales/blob/main/notices/1_fondations_print.pdf?raw=true))
+* [2 - Plancher](https://github.com/mors-es/maison-petales/blob/main/notices/2_plancher.pdf?raw=true) ([format à imprimer](https://github.com/mors-es/maison-petales/blob/main/notices/2_plancher_print.pdf?raw=true))
+* [3 - Structure](https://github.com/mors-es/maison-petales/blob/main/notices/3_structure.pdf?raw=true) ([format à imprimer](https://github.com/mors-es/maison-petales/blob/main/notices/3_structure_print.pdf?raw=true))
+* [4 - Ossatures et menuiseries](https://github.com/mors-es/maison-petales/blob/main/notices/4_ossatures_menuiseries.pdf?raw=true) ([format à imprimer](https://github.com/mors-es/maison-petales/blob/main/notices/4_ossatures_menuiseries_print.pdf?raw=true))
+* [5 - Isolation et étanchéité](https://github.com/mors-es/maison-petales/blob/main/notices/5_isolation_etancheite.pdf?raw=true) ([format à imprimer](https://github.com/mors-es/maison-petales/blob/main/notices/5_isolation_etancheite_print.pdf?raw=true))
 * 6 - Couverture (*A venir*)
 
 Les notices PIÈCES et ÉDIFICATIONS seront sous format Foldy Zine, une partie *livret* avec textes et illustrations pouvant être lue à son aise et une partie intérieure avec des *planches de dessins* (*A venir*) résumant les étapes à suivre à l’atelier ou sur le chantier. Actuellement seule la partie livret A5 est en cours de réalisation.
@@ -36,18 +36,19 @@ Les notices PIÈCES et ÉDIFICATIONS seront sous format Foldy Zine, une partie *
 Les notices **ORGANISATION** qui sont des livrets plus transversaux permettant d’avoir la vue d’ensemble sur la construction de la Maison en Pétales
 
 * X - Chantier (lieu, outils nécessaires, calendrier, etc.) (*A venir*)
-* Y - Plans & Débit (plans et vues de coupes de toutes les pièces, listes des débits, consommables).
+* [Y - Plans & Débits](https://github.com/mors-es/maison-petales/blob/main/notices/Y_plans_debits.pdf?raw=true) (plans et vues de coupes de toutes les pièces, listes des débits, consommables).
 
 Cette notice n’en est pas vraiment une car elle prend la forme d’un grand plan en format A0 à afficher dans l’atelier pour y trouver l’ensemble des mesures et débits. Ce plan peut être aussi être utilisé pour marquer la progression de ce qui a déjà été fait.
 
 ![](/assets/img/plan_atelier.png)
+
 * Z - Conseils, Trucs et Astuces (utilisation des outils, conseils, vocabulaires, FAQ, etc.)  (*A venir*)
 
 ## Autres liens
 
-* [Maisons Nomades/Maison en Pétales](https://www.maisonsnomades.net/la-maison-en-p%C3%A9tales): Le siteweb du concepteur de l'habitat, Yves Desarzens. Vous y trouverez la genèse du projet, ainsi que la plan 3D Sketch Up.
+* [Maisons Nomades/Maison en Pétales](https://www.maisonsnomades.net/la-maison-en-p%C3%A9tales): Le siteweb du concepteur de l'habitat, Yves Desarzens. Vous y trouverez la genèse du projet, ainsi que les plans 3D Sketch Up.
 * [Le Croissant Fertile](https://lecroissant.desobeissancefertile.com/): Lieu d'expérimentation autour de l'habitat réversible dans le Perigord Vert, là où la premère Maison en Pétales a été réalisée.
-* [Et Saar'part](https://www.youtube.com/@EtSaarpart): Chaine du Youtubeur *Saar* qui a tournée 8 vidéos tutoriels sur l'édification de la première Maison en Pétales. 
+* [Et Saar'part](https://www.youtube.com/@EtSaarpart): Chaine du Youtubeur *Saar* qui a tourné 8 vidéos tutoriels sur l'édification de la première Maison en Pétales. 
 
 ## Contribuer
 
