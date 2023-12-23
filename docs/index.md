@@ -18,7 +18,7 @@ Les notices **PIÈCES** qui parlent de la réalisation des différentes “pièc
 * [B - Piliers](https://github.com/mors-es/maison-petales/blob/main/notices/b_piliers.pdf?raw=true)  ([format à imprimer](https://github.com/mors-es/maison-petales/blob/main/notices/b_piliers_print.pdf?raw=true))
 * [C - Cadres](https://github.com/mors-es/maison-petales/blob/main/notices/c_cadres?raw=true)  ([format à imprimer](https://github.com/mors-es/maison-petales/blob/main/notices/c_cadres_print.pdf?raw=true))
 * [D - Toiture](https://github.com/mors-es/maison-petales/blob/main/notices/d_toiture?raw=true)  ([format à imprimer](https://github.com/mors-es/maison-petales/blob/main/notices/d_toiture_print.pdf?raw=true))
-* [E - Marbres (*A venir*)
+* E - Marbres (*A venir*)
 
 Les notices **ÉDIFICATION** qui parlent de la construction de Maison en Pétales à partir des pièces préfabriquées et des consommables (pare-pluie, isolants, etc.).
 
@@ -38,7 +38,7 @@ Les notices **ORGANISATION** qui sont des livrets plus transversaux permettant d
 * X - Chantier (lieu, outils nécessaires, calendrier, etc.) (*A venir*)
 * [Y - Plans & Débits](https://github.com/mors-es/maison-petales/blob/main/notices/Y_plans_debits.pdf?raw=true) (plans et vues de coupes de toutes les pièces, listes des débits, consommables).
 
-Cette notice n’en est pas vraiment une car elle prend la forme d’un grand plan en format A0 à afficher dans l’atelier pour y trouver l’ensemble des mesures et débits. Ce plan peut être aussi être utilisé pour marquer la progression de ce qui a déjà été fait.
+Cette notice n’en est pas vraiment une car elle prend la forme d’un grand plan en format A0 à afficher dans l’atelier pour y trouver l’ensemble des mesures et débits. Ce plan peut aussi être utilisé pour marquer la progression de ce qui a déjà été fait.
 
 ![](/assets/img/plan_atelier.png)
 
