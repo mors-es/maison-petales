@@ -1,5 +1,5 @@
 ```
-Tous ces documents sont en version “BETA”, toujours en phase de corrections et relectures. Nous comptons sur votre indulgence. Vous pouvez d’ailleurs faire remonter vos remarques/corrections à l’adresse suivante: doc@mors.es
+Tous ces documents sont en version “BETA”, toujours en phase de corrections et relectures. Nous comptons sur votre indulgence. Vous pouvez d’ailleurs faire remonter vos remarques/corrections à l’adresse suivante: maison-petales@protonmail.com
 
 C’est l’occasion de signaler que ce soit sous forme de “Maison Nomade” ou de “Maison en Pétales” il existe moins de 4 modèles réalisés, aucun d'entre eux n’a fait l'objet d’une étude de structure, mais aujourd’hui tous ces modèles sont encore debout après plus de 10 ans pour le premier modèle et plus de 6 montages/démontages. La structure devrait pouvoir tenir une large gamme de conditions, mais à défaut d’une étude propre au projet, les personnes dernières la conception et la documentation se déchargent de toutes responsabilités sur les différentes mises en œuvre.
 
@@ -41,7 +41,26 @@ Les notices **ORGANISATION** qui sont des livrets plus transversaux permettant d
 Cette notice n’en est pas vraiment une car elle prend la forme d’un grand plan en format A0 à afficher dans l’atelier pour y trouver l’ensemble des mesures et débits. Ce plan peut être aussi être utilisé pour marquer la progression de ce qui a déjà été fait.
 
 ![](/assets/img/plan_atelier.png)
-
 * Z - Conseils, Trucs et Astuces (utilisation des outils, conseils, vocabulaires, FAQ, etc.)  (*A venir*)
 
+## Autres liens
 
+* [Maisons Nomades/Maison en Pétales](https://www.maisonsnomades.net/la-maison-en-p%C3%A9tales): Le siteweb du concepteur de l'habitat, Yves Desarzens. Vous y trouverez la genèse du projet, ainsi que la plan 3D Sketch Up.
+* [Le Croissant Fertile](https://lecroissant.desobeissancefertile.com/): Lieu d'expérimentation autour de l'habitat réversible dans le Perigord Vert, là où la premère Maison en Pétales a été réalisée.
+* [Et Saar'part](https://www.youtube.com/@EtSaarpart): Chaine du Youtubeur *Saar* qui a tournée 8 vidéos tutoriels sur l'édification de la première Maison en Pétales. 
+
+## Contribuer
+
+Comme vous pouvez le voir cette documentation n'est pas encore terminée. Il existe plusieurs manière d'amener sa pierre à l'édifice.
+
+### Remarques et relecture
+
+Toutes remarques/retours sur la documentation sont les bienvenues, la mise en place d'un forum de discussion est envisagé. En attendant vous pouvez envoyer vos remarques à l'adresse suivante: maison-petales@protonmail.com
+
+### Financièrement
+
+Vous pouvez également décider de soutenir le projet en partipant financièrement aux frais qu'il occasionne. [Sur mon PayPal](http://paypal.me/dmorses) (Dorian aka Morses). Il est également possible de [soutenir la dynamique du Croissant Fertile](https://lecroissant.desobeissancefertile.com/nous-soutenir/) ou encore [les projets vidéos de Saar](https://etsaarpart.odoo.com/shop/donesp-soutiens-notre-travail-fais-une-donation-a-et-saar-part-6#attr=).
+
+### Recherche et développement
+
+Le projet vous inspire, vous avez des connaissances dans le domaine de l'éco-construction. Nous aider dans une études de structure, d'impact ou tous nouveaux développement pour permettre le développement de ce chouette projet.
