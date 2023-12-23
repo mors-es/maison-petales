@@ -1,5 +1,5 @@
 ```
-Tous ces documents sont en version “BETA”, toujours en phase de corrections et relectures. Nous comptons sur votre indulgence. Vous pouvez d’ailleurs faire remonter vos remarques/corrections à l’adresse suivante: maison-petales@protonmail.com
+Tous ces documents sont en version “BETA”, toujours en phase de corrections et relectures. Nous comptons sur votre indulgence. Vous pouvez d’ailleurs faire remonter vos remarques/corrections à l’adresse suivante: doc@mors.es
 
 C’est l’occasion de signaler que ce soit sous forme de “Maison Nomade” ou de “Maison en Pétales” il existe moins de 4 modèles réalisés, aucun d'entre eux n’a fait l'objet d’une étude de structure, mais aujourd’hui tous ces modèles sont encore debout après plus de 10 ans pour le premier modèle et plus de 6 montages/démontages. La structure devrait pouvoir tenir une large gamme de conditions, mais à défaut d’une étude propre au projet, les personnes dernières la conception et la documentation se déchargent de toutes responsabilités sur les différentes mises en œuvre.
 
@@ -56,7 +56,7 @@ Comme vous pouvez le voir cette documentation n'est pas encore terminée. Il exi
 
 ### Remarques et relecture
 
-Toutes remarques/retours sur la documentation sont les bienvenues, la mise en place d'un forum de discussion est envisagé. En attendant vous pouvez envoyer vos remarques à l'adresse suivante: maison-petales@protonmail.com
+Toutes remarques/retours sur la documentation sont les bienvenues, la mise en place d'un forum de discussion est envisagé. En attendant vous pouvez envoyer vos remarques à l'adresse suivante: doc@mors.es
 
 ### Financièrement
 
