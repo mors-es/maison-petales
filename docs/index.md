@@ -52,7 +52,7 @@ Cette notice n’en est pas vraiment une car elle prend la forme d’un grand pl
 
 ## Contribuer
 
-Comme vous pouvez le voir cette documentation n'est pas encore terminée. Il existe plusieurs manière d'amener sa pierre à l'édifice.
+Comme vous pouvez le voir cette documentation n'est pas encore terminée. Il existe plusieurs manières d'amener sa pierre à l'édifice.
 
 ### Remarques et relecture
 
@@ -60,7 +60,7 @@ Toutes remarques/retours sur la documentation sont les bienvenues, la mise en pl
 
 ### Financièrement
 
-Vous pouvez également décider de soutenir le projet en partipant financièrement aux frais qu'il occasionne. [Sur mon PayPal](http://paypal.me/dmorses) (Dorian aka Morses). Il est également possible de [soutenir la dynamique du Croissant Fertile](https://lecroissant.desobeissancefertile.com/nous-soutenir/) ou encore [les projets vidéos de Saar](https://etsaarpart.odoo.com/shop/donesp-soutiens-notre-travail-fais-une-donation-a-et-saar-part-6#attr=).
+Vous pouvez également décider de soutenir le projet en participant financièrement aux frais qu'il occasionne. [Sur mon PayPal](http://paypal.me/dmorses) (Dorian aka Morses). Il est également possible de [soutenir la dynamique du Croissant Fertile](https://lecroissant.desobeissancefertile.com/nous-soutenir/) ou encore [les projets vidéos de Saar](https://etsaarpart.odoo.com/shop/donesp-soutiens-notre-travail-fais-une-donation-a-et-saar-part-6#attr=).
 
 ### Recherche et développement
 
