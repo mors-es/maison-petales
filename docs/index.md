@@ -58,6 +58,8 @@ Comme vous pouvez le voir cette documentation n'est pas encore terminée. Il exi
 
 Toutes remarques/retours sur la documentation sont les bienvenues, la mise en place d'un forum de discussion est envisagé. En attendant vous pouvez envoyer vos remarques à l'adresse suivante: doc@mors.es
 
+D'ores et déjà un tout grand merci à Aurélie, Benoit, Louise et Yves pour la relecture et vos conseils avisés. Plus largement, merci à tous les participants et participantes du chantier de la Maison en Pétales de septembre 2023 au Croissant Fertile sans qui cette documentation n'aurait été possible.
+
 ### Financièrement
 
 Vous pouvez également décider de soutenir le projet en participant financièrement aux frais qu'il occasionne. [Sur mon PayPal](http://paypal.me/dmorses) (Dorian aka Morses). Il est également possible de [soutenir la dynamique du Croissant Fertile](https://lecroissant.desobeissancefertile.com/nous-soutenir/) ou encore [les projets vidéos de Saar](https://etsaarpart.odoo.com/shop/donesp-soutiens-notre-travail-fais-une-donation-a-et-saar-part-6#attr=).
