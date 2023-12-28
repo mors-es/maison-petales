@@ -20,7 +20,7 @@ On a ensuite les notices **PIÈCES** qui parlent de la réalisation des différe
 * [D - Toiture](https://github.com/mors-es/maison-petales/blob/main/notices/d_toiture.pdf?raw=true)  ([format à imprimer](https://github.com/mors-es/maison-petales/blob/main/notices/d_toiture_print.pdf?raw=true))
 * E - Marbres (*A venir*)
 
-Les notices **ÉDIFICATION** parlent de la construction de Maison en Pétales à partir des pièces préfabriquées et des consommables (pare-pluie, isolants, etc.).
+Les notices **ÉDIFICATION** parlent de la construction de la Maison en Pétales à partir des pièces préfabriquées et des consommables (pare-pluie, isolants, etc.).
 
 * [1 - Fondations](https://github.com/mors-es/maison-petales/blob/main/notices/1_fondations.pdf?raw=true) ([format à imprimer](https://github.com/mors-es/maison-petales/blob/main/notices/1_fondations_print.pdf?raw=true))
 * [2 - Plancher](https://github.com/mors-es/maison-petales/blob/main/notices/2_plancher.pdf?raw=true) ([format à imprimer](https://github.com/mors-es/maison-petales/blob/main/notices/2_plancher_print.pdf?raw=true))
