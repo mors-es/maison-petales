@@ -6,6 +6,8 @@ C’est l’occasion de signaler, que ce soit sous forme de “Maison Nomade” 
 Nous sommes d’ailleurs à la recherche d’étudiants, d’un bureau ou d’ingénieurs indépendants prêts à nous aider dans la réalisation d’une étude de structure.
 ```
 
+**Recevez les dernières mise à jour de la documentation**
+
 <div id="mc_embed_shell">
 <div id="mc_embed_signup">
     <form action="https://maisonpetales.us10.list-manage.com/subscribe/post?u=5c34adf9c85700841f7de761f&amp;id=a24535dec3&amp;f_id=00bfa6e5f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
@@ -17,7 +19,6 @@ Nous sommes d’ailleurs à la recherche d’étudiants, d’un bureau ou d’in
             <div class="response" id="mce-success-response" style="display: none;"></div>
         </div>
         <div style="position: absolute; left: -5000px;" aria-hidden="true">
-        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
         <input type="text" name="b_5c34adf9c85700841f7de761f_a24535dec3" tabindex="-1" value="">
     </div>
         <div class="optionalParent">
@@ -30,7 +31,7 @@ Nous sommes d’ailleurs à la recherche d’étudiants, d’un bureau ou d’in
 </div>
 </div>
 
-*En cliquant sur "S'inscrire" vous vous inscrivez à la liste de diffusion à propos de la Maison en Pétales (envrion 6emails/an)*
+*En cliquant sur "S'inscrire" vous vous inscrivez à la liste de diffusion à propos de la documentation de la Maison en Pétales (maximum 6 e-mails/an)*
 
 ## Sommaire
 
