@@ -210,6 +210,18 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+#mc_embed_signup_scroll {
+  display: flex;
+}
+
+#mc-embedded-subscribe {
+  margin: 10px;
+}
+
+.mc-field-group {
+  margin: 10px;
+}
+
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
