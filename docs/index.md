@@ -6,6 +6,32 @@ C’est l’occasion de signaler, que ce soit sous forme de “Maison Nomade” 
 Nous sommes d’ailleurs à la recherche d’étudiants, d’un bureau ou d’ingénieurs indépendants prêts à nous aider dans la réalisation d’une étude de structure.
 ```
 
+<div id="mc_embed_shell">
+<div id="mc_embed_signup">
+    <form action="https://maisonpetales.us10.list-manage.com/subscribe/post?u=5c34adf9c85700841f7de761f&amp;id=a24535dec3&amp;f_id=00bfa6e5f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
+        <div id="mc_embed_signup_scroll">
+            <div class="mc-field-group"><label for="mce-EMAIL">Email</label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div>
+<div hidden=""><input type="hidden" name="tags" value="14261816"></div>
+        <div id="mce-responses" class="clear foot">
+            <div class="response" id="mce-error-response" style="display: none;"></div>
+            <div class="response" id="mce-success-response" style="display: none;"></div>
+        </div>
+    <div style="position: absolute; left: -5000px;" aria-hidden="true">
+        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
+        <input type="text" name="b_5c34adf9c85700841f7de761f_a24535dec3" tabindex="-1" value="">
+    </div>
+        <div class="optionalParent">
+            <div class="clear foot">
+                <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="S'inscrire">
+            </div>
+        </div>
+    </div>
+</form>
+</div>
+</div>
+
+*En cliquant sur "S'inscrire" vous vous inscrivez à la liste de diffusion à propos de la Maison en Pétales (envrion 6emails/an)*
+
 ## Sommaire
 
 La documentation de la Maison en Pétales se compose de **15 notices sous format A5**. A commencer par une notice d'**introduction**.
