@@ -89,7 +89,7 @@ D'ores et déjà un tout grand merci à Aurélie, Benoit, Louise et Yves pour la
 
 ### Financièrement
 
-Vous pouvez également décider de soutenir le projet en participant financièrement aux frais qu'il occasionne.Sur [LibrePay](https://fr.liberapay.com/Morses/donate) ou [mon PayPal](http://paypal.me/dmorses) (Dorian aka Morses). Il est également possible de [soutenir la dynamique du Croissant Fertile](https://lecroissant.desobeissancefertile.com/nous-soutenir/) ou encore [les projets vidéos de Saar](https://etsaarpart.odoo.com/shop/donesp-soutiens-notre-travail-fais-une-donation-a-et-saar-part-6#attr=).
+Vous pouvez également décider de soutenir le projet en participant financièrement aux frais qu'il occasionne. Sur [Liberapay](https://fr.liberapay.com/Morses/donate) ou [mon PayPal](http://paypal.me/dmorses) (Dorian aka Morses). Il est également possible de [soutenir la dynamique du Croissant Fertile](https://lecroissant.desobeissancefertile.com/nous-soutenir/) ou encore [les projets vidéos de Saar](https://etsaarpart.odoo.com/shop/donesp-soutiens-notre-travail-fais-une-donation-a-et-saar-part-6#attr=).
 
 ### Recherche et développement
 
