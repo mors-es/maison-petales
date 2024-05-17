@@ -63,7 +63,7 @@ Les notices **ÉDIFICATION** parlent de la construction de la Maison en Pétales
 Enfin, les notices **ORGANISATION** sont des livrets plus transversaux permettant d’avoir la vue d’ensemble sur la construction de la Maison en Pétales
 
 * X - Chantier (lieu, outils nécessaires, calendrier, etc.) (*A venir*)
-* [Y - Plans & Débits](https://github.com/mors-es/maison-petales/blob/main/notices/Y_plans_debits.pdf?raw=true) (plans et vues de coupes de toutes les pièces, listes des débits, consommables). (*A venir*, prêt à 90%)
+* [Y - Plans & Débits](https://github.com/mors-es/maison-petales/blob/main/notices/y_plans_debits.pdf?raw=true) (plans et vues de coupes de toutes les pièces, listes des débits, consommables). (*Non terminé*, [Tableau des débit](https://docs.google.com/spreadsheets/d/192lDf3B4wyAeSEpOTd4wxV1w-MeTvV6zNtPiaQi830A/edit?usp=sharing), *Non terminé*)
 
 > Cette notice n’en est pas vraiment une car elle prend la forme d’un grand plan en format A0 à afficher dans l’atelier pour y trouver l’ensemble des mesures et débits. Ce plan peut aussi être utilisé pour marquer la progression de ce qui a déjà été fait.
 
@@ -89,7 +89,7 @@ D'ores et déjà un tout grand merci à Aurélie, Benoit, Louise et Yves pour la
 
 ### Financièrement
 
-Vous pouvez également décider de soutenir le projet en participant financièrement aux frais qu'il occasionne. [Sur mon PayPal](http://paypal.me/dmorses) (Dorian aka Morses). Il est également possible de [soutenir la dynamique du Croissant Fertile](https://lecroissant.desobeissancefertile.com/nous-soutenir/) ou encore [les projets vidéos de Saar](https://etsaarpart.odoo.com/shop/donesp-soutiens-notre-travail-fais-une-donation-a-et-saar-part-6#attr=).
+Vous pouvez également décider de soutenir le projet en participant financièrement aux frais qu'il occasionne.Sur [LibrePay](https://fr.liberapay.com/Morses/donate) ou [mon PayPal](http://paypal.me/dmorses) (Dorian aka Morses). Il est également possible de [soutenir la dynamique du Croissant Fertile](https://lecroissant.desobeissancefertile.com/nous-soutenir/) ou encore [les projets vidéos de Saar](https://etsaarpart.odoo.com/shop/donesp-soutiens-notre-travail-fais-une-donation-a-et-saar-part-6#attr=).
 
 ### Recherche et développement
 
