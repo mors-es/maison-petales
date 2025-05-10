@@ -37,7 +37,7 @@ Nous sommes d’ailleurs à la recherche d’étudiants, d’un bureau ou d’in
 
 La documentation de la Maison en Pétales se compose de **15 notices sous format A5**. A commencer par une notice d'**introduction**.
 
-* 0 - Maison en Pétales (*A venir*)
+* 0 - La Maison en Pétales (*A venir*)
 
 On a ensuite les notices **PIÈCES** qui parlent de la réalisation des différentes “pièces” à assembler de la Maison en Pétales.
 
